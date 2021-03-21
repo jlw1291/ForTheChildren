@@ -22,6 +22,14 @@ public class PlayerMovement : MonoBehaviour
         change.x = Input.GetAxis("Horizontal");
         change.y = Input.GetAxis("Vertical");
         UpdateAnimationAndMove();
+
+        //Quest Info
+        //Quest 1 -Collect the fruit
+
+        //Quest 2 - Hide & Seek
+
+        //Quest 3 - Pray
+
     }
 
     void UpdateAnimationAndMove()

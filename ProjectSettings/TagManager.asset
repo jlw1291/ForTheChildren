@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Quest1_Start
+  - Quest1_Finish
+  - Quest1_Goal
   layers:
   - Default
   - TransparentFX
